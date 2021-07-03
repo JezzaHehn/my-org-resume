@@ -1,4 +1,7 @@
-* Creating a CV/Resume in Org-Mode using LaTeX Templates :emacs:org_mode:cv:resume:doom_emacs:
+* UNDER CONSTRUCTIION
+This repository was forked from https://github.com/aidanscannell/my-org-resume and is currently being developed.
+
+* Creating a CV/Resume in Org-Mode using LaTeX Templates :emacs:org_mode:cv:resume:
 Over the last few years I have been trying to find the best tools for managing my CV/resume.
 Previously I was maintaining a JSON file that I could export to pdf/html using [[https://jsonresume.org/][JSON Resume]] and [[https://github.com/hacksalot/HackMyResume][HackMyResume]].
 They provide a well structured format (JSON Schema) for storing your CV data
